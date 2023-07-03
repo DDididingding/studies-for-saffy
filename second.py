@@ -81,3 +81,16 @@
 # palindrome('My gym')
 
 ###
+
+# def sumOfDigits(num):
+#     num = int(input('숫자를 입력하세용 : '))
+#     a = 0
+#     for i in list(str(num)):
+#         a += int(i)
+#     return(a)
+
+# x = int
+# print(sumOfDigits(x))
+
+###
+
