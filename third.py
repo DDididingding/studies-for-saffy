@@ -183,7 +183,24 @@
 #             continue
     
 
-from tkinter import *
+# from tkinter import *
 
-widget = Label(None, text='I love Python!')
-widget.pack()
+# widget = Label(None, text='I love Python!')
+# widget.pack()
+
+###########
+
+# import math
+# y, z = 0,0
+
+# def hypotenus(a,b):
+#     a,b = map(int, input().split())
+#     x = a**2 + b**2
+#     x = math.sqrt(x)
+#     print(round(x, 2))
+
+# hypotenus(y,z)
+
+import calendar
+c  = calendar.TextCalendar
+print(help(c))
