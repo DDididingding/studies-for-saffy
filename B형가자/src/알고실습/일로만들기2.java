@@ -16,7 +16,7 @@ public class 일로만들기2 {
 		System.out.println(nums[X]);
 	}
 	
-	static void 내려가자(int n, int cnt) {
+	static void 내려가자(int n, int cnt) {ss
 		if(n < 1 ) return;
 		if(n == 1 && nums[1]>cnt) {
 			nums[n] = cnt;
